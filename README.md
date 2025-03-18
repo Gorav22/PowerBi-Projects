@@ -1,1 +1,1 @@
-ALL projects of Power BI
+Collection of powerBi Projects
